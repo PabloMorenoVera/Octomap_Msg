@@ -1,0 +1,3 @@
+<launch>
+  <node name="node_example" pkg="pub_example" type="publisher.cpp" />
+</launch>
